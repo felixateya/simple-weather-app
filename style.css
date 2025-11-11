@@ -13,7 +13,8 @@ body {
   height: 100vh;
   margin: 0;
   font-family: 'Open Sans', sans-serif;
-  background: url(https://images.pexels.com/photos/20784864/pexels-photo-20784864.jpeg);
+  /* background: url(https://images.pexels.com/photos/20784864/pexels-photo-20784864.jpeg); */
+  background:#232323;
   font-size: 120%;
 }
 
