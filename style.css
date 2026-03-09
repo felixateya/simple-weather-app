@@ -13,7 +13,8 @@ body {
   height: 100vh;
   margin: 0;
   font-family: 'Open Sans', sans-serif;
-  background-image: url('https://source.unsplash.com/random/1600x900/?nightsky');
+  /*background-image: url('https://source.unsplash.com/random/1600x900/?nightsky');*/
+background-color: #000;
   font-size: 120%;
 }
 
